@@ -44,7 +44,7 @@ except Exception:
 # CONFIG
 # =========================
 BASE_DIR = Path(__file__).resolve().parent
-EXCEL_PATH = BASE_DIR / "Test.xlsx"
+EXCEL_PATH = BASE_DIR / "test.xlsx"
 RANDOM_STATE = 42
 
 
